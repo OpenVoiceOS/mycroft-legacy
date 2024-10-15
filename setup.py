@@ -63,7 +63,7 @@ setup(
     author_email='jarbasai@mailfence.com',
     url='https://github.com/OpenVoiceOS/mycroft-legacy',
     license='apache-2.0',
-    packages=['mycroft'],
+    packages=['mycroft', 'mycroft.skills'],
     include_package_data=True,
     install_requires=required("requirements.txt"),
     zip_safe=True,
