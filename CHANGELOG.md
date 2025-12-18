@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.1.1a1](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.1a1) (2024-10-15)
+## [0.1.2a1](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a1) (2025-12-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.0...0.1.1a1)
+[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.1...0.1.2a1)
 
 **Merged pull requests:**
 
-- fix:packaging [\#1](https://github.com/OpenVoiceOS/mycroft-legacy/pull/1) ([JarbasAl](https://github.com/JarbasAl))
+- Configure Renovate [\#3](https://github.com/OpenVoiceOS/mycroft-legacy/pull/3) ([renovate[bot]](https://github.com/apps/renovate))
 
 
 
