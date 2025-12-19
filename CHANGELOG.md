@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.2a4](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a4) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a3...0.1.2a4)
+
+**Merged pull requests:**
+
+- Update pilosus/action-pip-license-checker action to v3 [\#12](https://github.com/OpenVoiceOS/mycroft-legacy/pull/12) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency python to 3.14 [\#4](https://github.com/OpenVoiceOS/mycroft-legacy/pull/4) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.2a3](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a3) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a2...0.1.2a3)
