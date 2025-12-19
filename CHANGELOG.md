@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.2a3](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a2...0.1.2a3)
+
+**Merged pull requests:**
+
+- Update actions/setup-python action to v6 [\#9](https://github.com/OpenVoiceOS/mycroft-legacy/pull/9) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.2a2](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a2) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a1...0.1.2a2)
