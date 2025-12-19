@@ -1,8 +1,8 @@
 # Changelog
 
-## [0.1.2a4](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a4) (2025-12-19)
+## [0.1.2a5](https://github.com/OpenVoiceOS/mycroft-legacy/tree/0.1.2a5) (2025-12-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a3...0.1.2a4)
+[Full Changelog](https://github.com/OpenVoiceOS/mycroft-legacy/compare/0.1.2a3...0.1.2a5)
 
 **Merged pull requests:**
 
